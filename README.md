@@ -1,4 +1,5 @@
-![RGMCode_Logo](https://github.com/RGMCode/RGMCode/assets/90555783/26f83c37-fca6-4c6c-a3c2-b32754fab0e6)
+![RGMCode_Logo_v2](https://github.com/RGMCode/RGMCode/assets/90555783/9e5c94b3-421a-4c1a-8621-b54abd382979)
+
 
 ### Hey there 👋
 ---
