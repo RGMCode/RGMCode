@@ -2,7 +2,7 @@
 
 
 ### Hey there 👋
-### I am currently working on Ticket_System v1.0 and Website_React
+<!-- ### I am currently working on Ticket_System v1.0 and Website_React -->
 
 ---
 # 💻 Tech Stack:
